@@ -1,0 +1,6 @@
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\ATM_APP\ATM_APP\bin\Debug\ATM_APP.exe.config
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\ATM_APP\ATM_APP\bin\Debug\ATM_APP.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\ATM_APP\ATM_APP\bin\Debug\ATM_APP.pdb
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\ATM_APP\ATM_APP\obj\Debug\ATM_APP.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\ATM_APP\ATM_APP\obj\Debug\ATM_APP.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\ATM_APP\ATM_APP\obj\Debug\ATM_APP.pdb

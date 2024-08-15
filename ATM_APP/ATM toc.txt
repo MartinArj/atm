@@ -1,0 +1,12 @@
+﻿account:
+		*property:
+		        =>account number,
+		        =>name,
+		        =>pin,
+		        =>balence.
+		*member function:
+		        =>withrawel,
+				=>deposit
+				=>pin change
+ATM:
+		=>
